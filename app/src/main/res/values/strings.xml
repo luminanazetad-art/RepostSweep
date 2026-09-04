@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RepostSweep</string>
+    <string name="accessibility_service_description">Membantu menghapus repost TikTok secara otomatis</string>
+</resources>
